@@ -79,7 +79,7 @@ Raw CSVs (Kaggle: ISOT Fake/Real News Dataset)
 
 ```bash
 # Clone the repo
-git clone https://github.com/Swathi-Chippa/fake-news-detector.git
+git clone https://github.com/saibhavaniyedla/Fake_news_detector
 cd fake-news-detector
 
 # Create and activate a virtual environment
